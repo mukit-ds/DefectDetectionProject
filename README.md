@@ -35,7 +35,7 @@ To develop a real-time defect detection system that can:
 
 The dataset contains images of industrial components with annotations for different types of defects. Each image has labeled bounding boxes indicating the defect locations.
 
-- ✅ Image Formats: `.jpg`
+- ✅ Image Formats: `.jpg`, `PNG`
 - ✅ Annotation Format: YOLO `.txt`
 - ✅ Classes: `defect'.
 - ✅ Number of Images: 35
