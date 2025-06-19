@@ -1,0 +1,26 @@
+<annotation>
+	<folder>item2</folder>
+	<filename>vnkGQILIot6xSJDT5FlrcIIMBgtg0yG9.jpg</filename>
+	<path>D:\item2\vnkGQILIot6xSJDT5FlrcIIMBgtg0yG9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defective_area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>72</ymin>
+			<xmax>277</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>
